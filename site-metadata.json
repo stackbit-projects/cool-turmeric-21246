@@ -78,7 +78,7 @@
         "secondary_nav_title": "",
         "secondary_nav_links": [
             {
-                "label": "News",
+                "label": "",
                 "url": "/blog/category/news",
                 "style": "link"
             },
