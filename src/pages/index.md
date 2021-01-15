@@ -21,7 +21,7 @@ sections:
     padding_bottom: large
     background_color: secondary
   - type: grid_section
-    title: Image Grid
+    title: 'Distributors for:'
     subtitle: Authorized
     align: center
     grid_items:
