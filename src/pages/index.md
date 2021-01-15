@@ -6,7 +6,7 @@ sections:
     subtitle: Serving the flexible packaging industry  for over 35 years
     content: ''
     actions:
-      - label: Try Free
+      - label: Contact Us
         url: /pricing
         style: primary
       - label: Learn More
