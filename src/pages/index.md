@@ -21,7 +21,7 @@ sections:
     padding_bottom: large
     background_color: secondary
   - type: grid_section
-    title: 'Distributors for:'
+    title: 'Authorized distributors for:'
     subtitle: ''
     align: center
     grid_items:
