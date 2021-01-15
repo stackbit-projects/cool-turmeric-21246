@@ -22,7 +22,7 @@ sections:
     background_color: secondary
   - type: grid_section
     title: 'Distributors for:'
-    subtitle: Authorized
+    subtitle: ''
     align: center
     grid_items:
       - image: images/logo-1.svg
