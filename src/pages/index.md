@@ -16,7 +16,7 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
-    image: images/undraw_Building_re_xfcm.svg
+    image: images/undraw_deliveries_131a.svg
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
