@@ -8,7 +8,7 @@ sections:
     actions:
       - label: Try Free
         url: /pricing
-        style: link
+        style: secondary
       - label: Learn More
         url: /features
         style: secondary
