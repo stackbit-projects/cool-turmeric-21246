@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: EXCELLENCE IN FLEXIBLE PACKAGING
-    subtitle: SERVING THE FLEXIBLE PACKAGING INDUSTRY FOR OVER 35 YEARS.
+    subtitle: Serving the flexible packaging industry  for over 35 years
     content: ''
     actions:
       - label: Try Free
