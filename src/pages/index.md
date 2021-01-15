@@ -22,7 +22,7 @@ sections:
     background_color: secondary
   - type: grid_section
     title: Image Grid
-    subtitle: Grid Section Example
+    subtitle: Authorized
     align: center
     grid_items:
       - image: images/logo-1.svg
