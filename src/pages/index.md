@@ -4,9 +4,11 @@ sections:
   - type: hero_section
     title: EXCELLENCE IN FLEXIBLE PACKAGING
     subtitle: Optional hero section subtitle
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: >
+      For nearly 40 years, Robert Smith, Founder and President of Sunpak Caribe,
+      Inc., has been in the manufacturing and distribution side of the flexible
+      packaging industry. That experience brings a wealth of knowledge about the
+      films that our customers need to best serve their needs. 
     actions:
       - label: Try Free
         url: /pricing
