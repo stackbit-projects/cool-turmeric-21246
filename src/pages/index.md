@@ -19,7 +19,7 @@ sections:
     align: left
     padding_top: large
     padding_bottom: large
-    background_color: secondary
+    background_color: primary
   - type: features_section
     title: We Are Experts in
     subtitle: ''
