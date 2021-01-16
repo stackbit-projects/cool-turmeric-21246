@@ -20,37 +20,6 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: secondary
-  - type: grid_section
-    title: Authorized Distributors for
-    subtitle: ''
-    align: center
-    grid_items:
-      - image: images/bagmaster.png
-        image_alt: Contentful logo
-        image_align: center
-      - image: images/technofilm.png
-        image_alt: Netlify logo
-        image_align: center
-      - image: images/tinflex.png
-        image_alt: Gatsby logo
-        image_align: center
-      - image: images/texaspoly.png
-        image_alt: Sanity logo
-        image_align: center
-      - image: images/st.png
-        image_alt: DatoCMS logo
-        image_align: center
-      - image: images/irplast.png
-        image_alt: Next.js logo
-        image_align: center
-      - image: images/sigmaplast.png
-        image_alt: Gridsome logo
-        image_align: center
-      - image_alt: Git logo
-        image_align: center
-    grid_cols: four
-    grid_gap_horiz: medium
-    grid_gap_vert: medium
   - type: features_section
     title: We Are Experts in
     subtitle: ''
@@ -108,6 +77,37 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: secondary
+  - type: grid_section
+    title: Authorized Distributors for
+    subtitle: ''
+    align: center
+    grid_items:
+      - image: images/bagmaster.png
+        image_alt: Contentful logo
+        image_align: center
+      - image: images/technofilm.png
+        image_alt: Netlify logo
+        image_align: center
+      - image: images/tinflex.png
+        image_alt: Gatsby logo
+        image_align: center
+      - image: images/texaspoly.png
+        image_alt: Sanity logo
+        image_align: center
+      - image: images/st.png
+        image_alt: DatoCMS logo
+        image_align: center
+      - image: images/irplast.png
+        image_alt: Next.js logo
+        image_align: center
+      - image: images/sigmaplast.png
+        image_alt: Gridsome logo
+        image_align: center
+      - image_alt: Git logo
+        image_align: center
+    grid_cols: four
+    grid_gap_horiz: medium
+    grid_gap_vert: medium
   - type: features_section
     features:
       - title: >-
