@@ -217,6 +217,7 @@ sections:
     grid_cols: four
     align: center
     background_color: secondary
+    grid_gap_vert: large
   - type: blog_feed_section
     title: What's New
     subtitle: Blog Feed Section Example
