@@ -43,11 +43,6 @@
                 "label": "Contact",
                 "url": "/contact",
                 "style": "link"
-            },
-            {
-                "label": "",
-                "url": "/pricing",
-                "style": "primary"
             }
         ],
         "has_anncmnt": true,
