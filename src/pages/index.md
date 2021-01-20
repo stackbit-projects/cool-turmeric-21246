@@ -267,7 +267,7 @@ sections:
         image: images/g1386.png
       - title: ''
         subtitle: Chips
-        title_align: left
+        title_align: center
         content: ''
         content_align: left
         actions: []
