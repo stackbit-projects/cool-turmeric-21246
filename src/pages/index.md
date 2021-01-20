@@ -279,7 +279,7 @@ sections:
         image_align: center
         image_has_padding: false
         type: grid_item
-        image: images/g92.png
+        image: images/g1419.png
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
