@@ -205,7 +205,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/g200.png
-      - title: lorem-ipsum
+      - title: ''
         subtitle: lorem-ipsum
         title_align: left
         content: >-
