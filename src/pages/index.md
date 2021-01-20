@@ -187,7 +187,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - title: Offer effective solutions to these markets
-    subtitle: ''
+    subtitle: Cereal
     actions: []
     grid_items:
       - title: ''
