@@ -236,7 +236,7 @@ sections:
         type: grid_item
         image: images/futuristic-coriander.png
       - title: ''
-        subtitle: ''
+        subtitle: Snack Food
         title_align: left
         content: ''
         content_align: left
