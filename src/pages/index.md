@@ -360,7 +360,7 @@ sections:
         image: images/haccp.png
     grid_cols: four
     grid_gap_vert: medium
-    grid_gap_horiz: large
+    grid_gap_horiz: small
     enable_cards: false
     align: center
     padding_top: medium
