@@ -129,18 +129,6 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - type: features_section
-    features:
-      - title: >-
-          “Stackbit is fast! Themes are always up to date. It’s easy to use
-          across the organization, and collaboration is easy.”
-        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
-        image: images/brandon-guidelines.png
-        image_alt: Brandon Guidelines
-        media_position: right
-        media_width: thirty-three
-    feature_padding_vert: small
-    background_color: primary
-  - type: features_section
     title: We Are Experts in
     subtitle: ''
     features:
@@ -197,6 +185,18 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: none
+  - type: features_section
+    features:
+      - title: >-
+          “Stackbit is fast! Themes are always up to date. It’s easy to use
+          across the organization, and collaboration is easy.”
+        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
+        image: images/brandon-guidelines.png
+        image_alt: Brandon Guidelines
+        media_position: right
+        media_width: thirty-three
+    feature_padding_vert: small
+    background_color: primary
   - title: We are certified in
     subtitle: ''
     actions: []
