@@ -312,6 +312,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: images/iso-9001-certified-logo-AC594FAD01-seeklogo.com_.png
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
