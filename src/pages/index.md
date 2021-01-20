@@ -228,7 +228,7 @@ sections:
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
-    background_color: none
+    background_color: secondary
   - type: grid_section
     title: Reviews Section
     subtitle: Grid Section Example
