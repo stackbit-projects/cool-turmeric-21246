@@ -20,6 +20,114 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: secondary
+  - title: We offer effective solutions to these markets
+    subtitle: ''
+    actions: []
+    grid_items:
+      - title: ''
+        subtitle: Cereal
+        title_align: center
+        content: ''
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: center
+        image_has_padding: false
+        type: grid_item
+        image: images/g144.png
+      - title: ''
+        subtitle: Coffee
+        title_align: center
+        content: ''
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: center
+        image_has_padding: false
+        type: grid_item
+        image: images/enthusiastic-pluto.png
+      - title: ''
+        subtitle: Bakery
+        title_align: center
+        content: ''
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: center
+        image_has_padding: false
+        type: grid_item
+        image: images/futuristic-coriander.png
+      - title: ''
+        subtitle: Snack Food
+        title_align: center
+        content: ''
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: center
+        image_has_padding: false
+        type: grid_item
+        image: images/violet-celery.png
+      - title: ''
+        subtitle: Personal Care
+        title_align: center
+        content: ''
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: center
+        image_has_padding: false
+        type: grid_item
+        image: images/g1386.png
+      - title: ''
+        subtitle: Chips
+        title_align: center
+        content: ''
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: center
+        image_has_padding: false
+        type: grid_item
+        image: images/g1419.png
+    grid_cols: three
+    grid_gap_vert: small
+    grid_gap_horiz: small
+    enable_cards: false
+    align: center
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: grid_section
   - type: features_section
     title: We Are Experts in
     subtitle: ''
@@ -186,113 +294,5 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-  - title: We offer effective solutions to these markets
-    subtitle: ''
-    actions: []
-    grid_items:
-      - title: ''
-        subtitle: Cereal
-        title_align: center
-        content: ''
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: center
-        image_has_padding: false
-        type: grid_item
-        image: images/g144.png
-      - title: ''
-        subtitle: Coffee
-        title_align: center
-        content: ''
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: center
-        image_has_padding: false
-        type: grid_item
-        image: images/enthusiastic-pluto.png
-      - title: ''
-        subtitle: Bakery
-        title_align: center
-        content: ''
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: center
-        image_has_padding: false
-        type: grid_item
-        image: images/futuristic-coriander.png
-      - title: ''
-        subtitle: Snack Food
-        title_align: center
-        content: ''
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: center
-        image_has_padding: false
-        type: grid_item
-        image: images/violet-celery.png
-      - title: ''
-        subtitle: Personal Care
-        title_align: center
-        content: ''
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: center
-        image_has_padding: false
-        type: grid_item
-        image: images/g1386.png
-      - title: ''
-        subtitle: Chips
-        title_align: center
-        content: ''
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: center
-        image_has_padding: false
-        type: grid_item
-        image: images/g1419.png
-    grid_cols: three
-    grid_gap_vert: small
-    grid_gap_horiz: small
-    enable_cards: false
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: grid_section
 template: advanced
 ---
