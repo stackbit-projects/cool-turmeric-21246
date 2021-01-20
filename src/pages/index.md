@@ -186,7 +186,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-  - title: Offer effective solutions to these markets
+  - title: We offer effective solutions to these markets
     subtitle: ''
     actions: []
     grid_items:
