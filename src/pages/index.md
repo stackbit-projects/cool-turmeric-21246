@@ -314,7 +314,7 @@ sections:
         type: grid_item
         image: images/iso-9001-certified-logo-AC594FAD01-seeklogo.com_.png
       - title: ''
-        subtitle: lorem-ipsum
+        subtitle: ''
         title_align: left
         content: >-
           ## Lorem ipsum
