@@ -264,7 +264,7 @@ sections:
         image_align: center
         image_has_padding: false
         type: grid_item
-        image: images/g449.png
+        image: images/g1386.png
       - title: ''
         subtitle: ''
         title_align: left
