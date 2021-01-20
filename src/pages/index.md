@@ -266,7 +266,7 @@ sections:
         type: grid_item
         image: images/g1386.png
       - title: ''
-        subtitle: ''
+        subtitle: Chips
         title_align: left
         content: ''
         content_align: left
