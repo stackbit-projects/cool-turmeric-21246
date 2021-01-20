@@ -295,7 +295,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - title: We are certified in
-    subtitle: lorem-ipsum
+    subtitle: ''
     actions: []
     grid_items: []
     grid_cols: three
