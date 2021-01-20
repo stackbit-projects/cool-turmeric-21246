@@ -266,7 +266,7 @@ sections:
         type: grid_item
         image: images/g449.png
       - title: ''
-        subtitle: lorem-ipsum
+        subtitle: ''
         title_align: left
         content: >-
           ## Lorem ipsum
