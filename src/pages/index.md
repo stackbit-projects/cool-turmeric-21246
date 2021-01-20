@@ -222,7 +222,7 @@ sections:
         image: images/enthusiastic-pluto.png
       - title: ''
         subtitle: Bakery
-        title_align: left
+        title_align: center
         content: ''
         content_align: left
         actions: []
