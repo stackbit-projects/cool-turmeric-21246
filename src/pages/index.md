@@ -342,7 +342,6 @@ sections:
         image_align: center
         image_has_padding: false
         type: grid_item
-        image: images/terrific-mahogany.png
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
