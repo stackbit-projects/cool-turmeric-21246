@@ -206,7 +206,7 @@ sections:
         type: grid_item
         image: images/g144.png
       - title: ''
-        subtitle: ''
+        subtitle: Coffee
         title_align: left
         content: ''
         content_align: left
