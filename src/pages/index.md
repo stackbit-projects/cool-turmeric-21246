@@ -310,7 +310,7 @@ sections:
         image_position: top
         image_width: twenty-five
         image_align: center
-        image_has_padding: true
+        image_has_padding: false
         type: grid_item
         image: images/iso-9001-certified-logo-AC594FAD01-seeklogo.com_.png
       - title: ''
