@@ -207,7 +207,7 @@ sections:
         image: images/g144.png
       - title: ''
         subtitle: Coffee
-        title_align: left
+        title_align: center
         content: ''
         content_align: left
         actions: []
