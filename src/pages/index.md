@@ -186,7 +186,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-  - title: Offert solutions to these markets
+  - title: Offer effective solutions to these markets
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
