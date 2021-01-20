@@ -252,7 +252,7 @@ sections:
         image: images/violet-celery.png
       - title: ''
         subtitle: Personal Care
-        title_align: left
+        title_align: center
         content: ''
         content_align: left
         actions: []
