@@ -221,7 +221,7 @@ sections:
         type: grid_item
         image: images/enthusiastic-pluto.png
       - title: ''
-        subtitle: ''
+        subtitle: Bakery
         title_align: left
         content: ''
         content_align: left
