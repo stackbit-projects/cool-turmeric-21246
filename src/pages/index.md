@@ -191,7 +191,7 @@ sections:
     actions: []
     grid_items:
       - title: ''
-        subtitle: ''
+        subtitle: Cereal
         title_align: left
         content: ''
         content_align: left
