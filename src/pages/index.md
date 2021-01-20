@@ -192,7 +192,7 @@ sections:
     grid_items:
       - title: ''
         subtitle: Cereal
-        title_align: left
+        title_align: center
         content: ''
         content_align: left
         actions: []
