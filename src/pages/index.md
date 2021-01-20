@@ -251,7 +251,7 @@ sections:
         type: grid_item
         image: images/violet-celery.png
       - title: ''
-        subtitle: ''
+        subtitle: Personal Care
         title_align: left
         content: ''
         content_align: left
